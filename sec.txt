@@ -3,3 +3,4 @@ SECRET_KEY = 'mysecretdjangokey'
 password: ghp_ALKWV9bn7M12YR4k9pyGop
 ghp_AGMWQ0sb4N53TW2k9kyLMEdUDFklpS53rtlh
 ghp_AGMWQ0sb4N53TW2k9kyLMEdUDFklpS53rtli
+ghp_AGMWQ0sb4N53TW2k9kyLMEdUDFklpS53rtlp
