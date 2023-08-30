@@ -1,0 +1,3 @@
+API_KEY = 'mysecretapikey'
+SECRET_KEY = 'mysecretdjangokey'
+password: ghp_ALKWV9bn7M12YR4k9pyGop
